@@ -3,7 +3,7 @@
 > **Free MT5 indicator.** Plot a **Fast** and **Slow ZigZag** on the same chart and automatically draw **support and resistance zones** from repeated swing pivots, with optional **ATR-based dynamic zone sizing**.
 
 [![Platform](https://img.shields.io/badge/Platform-MetaTrader%205-blue)](#compatibility)
-[![License](https://img.shields.io/badge/License-Free-brightgreen)](#license)
+[![License](https://img.shields.io/badge/License-MIT-green)](#license)
 [![Version](https://img.shields.io/badge/Version-1.00-orange)](#changelog)
 [![Type](https://img.shields.io/badge/Type-ZigZag%20%2B%20S%2FR%20Zones-lightgrey)](#overview)
 
@@ -281,6 +281,6 @@ More MT4 and MT5 indicators are available at:
 
 ## License
 
-This indicator is provided **free of charge** for personal use. Redistribution, resale, or repackaging without permission is not permitted.
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute the code, provided the original copyright notice is retained.
 
-© [Forex Trading Tools](https://www.forextradingtools.eu)
+See [LICENSE](./LICENSE) for details.

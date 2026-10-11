@@ -37,7 +37,7 @@ The indicator runs a **Fast ZigZag** and a **Slow ZigZag** in parallel, then gro
 This makes it useful for traders who want to map swing structure, identify reaction areas, and keep key support/resistance zones visible on the chart without drawing them manually.
 
 Official product page:
-<https://forextradingtools.eu/products/indicators/zigzag-zones-mt5-free/>
+<https://forextradingtools.eu/en/marketplace/zigzag-zones-mt5>
 
 ---
 
@@ -112,7 +112,7 @@ If **Auto Zone Height** is enabled, the indicator can widen the effective zone s
 ### Using a Compiled File
 
 1. Download the compiled package from the official product page:
-   <https://forextradingtools.eu/products/indicators/zigzag-zones-mt5-free/>
+   <https://forextradingtools.eu/en/marketplace/zigzag-zones-mt5>
 2. Copy the compiled `.ex5` file into **MQL5 → Indicators**.
 3. In MT5, refresh the **Navigator**.
 4. Drag the indicator onto any chart.
@@ -269,10 +269,10 @@ If you use Zig Zag Zones MT5 as a structure and reaction-area tool, these produc
 
 | Product | Platform | Why It Fits |
 |---|---|---|
-| [MTF Triple MA MT5](https://forextradingtools.eu/products/indicators/mtf-triple-ma-mt5/) | MT5 | Adds higher-timeframe trend alignment so you can judge whether a zone reaction is with or against the broader trend |
-| [MTF Bollinger Bands MT5](https://forextradingtools.eu/products/indicators/mtf-bollinger-bands-mt5-indicator/) | MT5 | Adds multi-timeframe volatility context and confluence around support and resistance zones |
-| [Session High Low MT5](https://forextradingtools.eu/products/indicators/session-high-low-mt5-free/) | MT5 | Useful for combining ZigZag zones with session highs/lows and intraday breakout or reversal levels |
-| [FXTT MT5 Forex Scanner](https://forextradingtools.eu/products/indicators/mt5-forex-scanner-free/) | MT5 | Helps scan multiple symbols and then apply Zig Zag Zones only to the charts already showing actionable structure |
+| [MTF Triple MA MT5](https://forextradingtools.eu/en/marketplace/mtf-triple-ma-mt5) | MT5 | Adds higher-timeframe trend alignment so you can judge whether a zone reaction is with or against the broader trend |
+| [MTF Bollinger Bands MT5](https://forextradingtools.eu/en/marketplace/mtf-bollinger-bands-mt5) | MT5 | Adds multi-timeframe volatility context and confluence around support and resistance zones |
+| [Session High Low MT5](https://forextradingtools.eu/en/marketplace/session-high-low-mt5) | MT5 | Useful for combining ZigZag zones with session highs/lows and intraday breakout or reversal levels |
+| [FXTT MT5 Forex Scanner](https://forextradingtools.eu/en/marketplace/mt5-forex-scanner) | MT5 | Helps scan multiple symbols and then apply Zig Zag Zones only to the charts already showing actionable structure |
 
 More MT4 and MT5 indicators are available at:
 <https://forextradingtools.eu/>

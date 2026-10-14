@@ -279,6 +279,12 @@ More MT4 and MT5 indicators are available at:
 
 ---
 
+## Optional: execute your own chart plan
+
+Zig Zag Zones maps chart structure; it does not place trades. If you use that structure to draw your own entry lines, **Trendline PRO** is a separate paid MT4/MT5 execution tool from the same developer. You define the line, entry mode, stop-loss and take-profit; it monitors and executes your configured rule. It does not automatically trade this indicator's zones or generate signals.
+
+[See the Trendline PRO workflow and demo](https://forextradingtools.eu/en/marketplace/trendline-pro?utm_source=github&utm_medium=readme&utm_campaign=free_to_paid_exp1&utm_content=mt5_zigzag_zones#walkthrough). Test on demo before live use. This free indicator remains free and works independently.
+
 ## Related FxTT repositories
 
 The public FxTT indicator family is split across these repositories:
